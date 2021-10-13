@@ -36,6 +36,7 @@ import objectPropertyNewline from "../rules/object-property-newline"
 import quoteProps from "../rules/quote-props"
 import quotes from "../rules/quotes"
 import sortKeys from "../rules/sort-keys"
+import sortKeysLokalise from "../rules/sort-keys-lokalise"
 import spaceUnaryOps from "../rules/space-unary-ops"
 import validJsonNumber from "../rules/valid-json-number"
 import vueCustomBlockNoParsingError from "../rules/vue-custom-block/no-parsing-error"
@@ -78,6 +79,7 @@ export const rules = [
     quoteProps,
     quotes,
     sortKeys,
+    sortKeysLokalise,
     spaceUnaryOps,
     validJsonNumber,
     vueCustomBlockNoParsingError,

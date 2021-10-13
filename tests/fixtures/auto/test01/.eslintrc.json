@@ -19,7 +19,7 @@
     "object-property-newline": "error",
     "quote-props": "error",
     "quotes": "error",
-    "sort-keys": "error",
+    "sort-keys-lokalise": "error",
     "space-unary-ops": "error"
   }
 }
